@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Andres Felipe Olaya
 
-💻 Apasionado por la **Inteligencia Artificial, Analítica de Datos y Desarrollo de Software**.  
+💻 Apasionado por el **Desarrollo de Software, Inteligencia Artificial y Analítica de Datos**.  
 📚 Actualmente aprendiendo sobre **IA con Python, análisis de datos, SQL, Oracle y MongoDB**.  
 🚀 También tengo experiencia en **PHP, Python, React, HTML y C#**.  
 

@@ -39,7 +39,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th33Andr3s&show_icons=true&theme=radical)
+## ⚙️ Análisis de GitHub  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3s&layout=compact&theme=tokyonight)
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th33Andr3s&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Th33Andr3&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats" />  
+</div>

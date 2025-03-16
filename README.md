@@ -20,9 +20,8 @@
 
 ## 📚 En constante aprendizaje  
 🔹 **Inteligencia Artificial** con Python y modelos de Machine Learning.  
-🔹 **Análisis de datos** con SQL y herramientas de visualización.  
-🔹 **Bases de datos** relacionales y NoSQL (SQL Server, Oracle, MongoDB).
 🔹 **Lenguajes** (JavaScript, Python, JavaScript, React JS, Node JS).
+🔹 **Bases de datos** relacionales y NoSQL (SQL Server, Oracle, MongoDB).
 
 ---
 

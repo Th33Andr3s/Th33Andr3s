@@ -26,9 +26,9 @@
 ---
 
 ## 🌟 Proyectos Destacados  
-🔹 [📌 Proyecto IA](https://github.com/tuusuario/proyecto-ia) - Implementación de Machine Learning con Python.  
-🔹 [📌 Análisis de Datos](https://github.com/tuusuario/proyecto-datos) - Dashboard con SQL y visualización de datos.  
-🔹 [📌 Aplicación Web](https://github.com/tuusuario/proyecto-web) - Desarrollo en React con backend en C#.  
+🔹 [📌 Proyecto IA](https://github.com/Th33Andr3s/proyecto-ia) - Implementación de Machine Learning con Python.  
+🔹 [📌 Análisis de Datos](https://github.com/Th33Andr3s/proyecto-datos) - Dashboard con SQL y visualización de datos.  
+🔹 [📌 Aplicación Web](https://github.com/Th33Andr3s/proyecto-web) - Desarrollo en React con backend en C#.  
 
 ---
 

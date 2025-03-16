@@ -44,6 +44,3 @@
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th33Andr3s&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />  
 </div>
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3s&layout=compact&theme=radical&count_private=true)

@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Andres Felipe Olaya
 
 💻 Apasionado por la **Inteligencia Artificial, Analítica de Datos y Desarrollo de Software**.  
 📚 Actualmente aprendiendo sobre **IA con Python, análisis de datos, SQL, Oracle y MongoDB**.  

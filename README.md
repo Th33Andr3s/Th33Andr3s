@@ -35,7 +35,7 @@
 ## 📬 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-olaya-cadena-8b0837210/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3116407134?text=Hola%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)  
-✉️ Correo: [tuemail@gmail.com](mailto:andresfoc2020@gmail.com)  
+✉️ Correo: [andresfoc2020@gmail.com](mailto:andresfoc2020@gmail.com)  
 
 ---
 

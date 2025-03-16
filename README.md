@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]  
 
-<!--
-**Th33Andr3s/Th33Andr3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la **Inteligencia Artificial, Analítica de Datos y Desarrollo de Software**.  
+📚 Actualmente aprendiendo sobre **IA con Python, análisis de datos, SQL, Oracle y MongoDB**.  
+🚀 También tengo experiencia en **PHP, Python, React, HTML y C#**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## 📚 En constante aprendizaje  
+🔹 **Inteligencia Artificial** con Python y modelos de Machine Learning.  
+🔹 **Análisis de datos** con SQL y herramientas de visualización.  
+🔹 **Bases de datos** relacionales y NoSQL (SQL Server, Oracle, MongoDB).
+🔹 **Lenguajes** (JavaScript, Python, JavaScript, React JS, Node JS).
+
+---
+
+## 🌟 Proyectos Destacados  
+🔹 [📌 Proyecto IA](https://github.com/tuusuario/proyecto-ia) - Implementación de Machine Learning con Python.  
+🔹 [📌 Análisis de Datos](https://github.com/tuusuario/proyecto-datos) - Dashboard con SQL y visualización de datos.  
+🔹 [📌 Aplicación Web](https://github.com/tuusuario/proyecto-web) - Desarrollo en React con backend en C#.  
+
+---
+
+## 📬 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-olaya-cadena-8b0837210/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3116407134?text=Hola%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)  
+✉️ Correo: [tuemail@gmail.com](mailto:andresfoc2020@gmail.com)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th33Andr3s&show_icons=true&theme=radical)  

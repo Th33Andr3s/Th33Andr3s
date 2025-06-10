@@ -44,7 +44,3 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Th33Andr3s&theme=redical&hide_border=true&bg_color=141321&color=FF6B9D&line=FFE66D&point=FFFFFF" width="98%" />
 </div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3s&theme=radical&hide_border=true&bg_color=141321&title_color=FF6B9D&text_color=FFFFFF&layout=compact&langs_count=8" width="49%" />
-</div>

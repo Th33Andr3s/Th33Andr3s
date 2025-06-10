@@ -46,5 +46,5 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Th33Andr3s&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=FF6B9D&icon_color=FFE66D&text_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3s&theme=radical&hide_border=true&bg_color=141321&title_color=FF6B9D&text_color=FFFFFF&layout=compact&langs_count=8" width="49%" />
 </div>

@@ -44,3 +44,9 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Th33Andr3s&theme=redical&hide_border=true&bg_color=141321&color=FF6B9D&line=FFE66D&point=FFFFFF" width="98%" />
 </div>
+
+< br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Th33Andr3s&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="85%" />
+</div>

@@ -39,8 +39,14 @@
 
 ---
 
-## ⚙️ Análisis de GitHub  
+## ⚙️ Análisis de GitHub
 
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Th33Andr3s&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Th33Andr3s&show_icons=true&theme=synthwave&hide_border=true&bg_color=2b213a&title_color=e94560&icon_color=f3a712&text_color=ffffff&ring_color=e94560" width="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Th33Andr3s&theme=synthwave-purple&hide_border=true&background=2b213a&stroke=e94560&ring=f3a712&fire=e94560&currStreakLabel=ffffff" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th33Andr3s&theme=synthwave&hide_border=true&bg_color=2b213a&title_color=e94560&text_color=ffffff&layout=compact" width="45%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Th33Andr3s&theme=dracula&no-frame=true&no-bg=true&row=2&column=3" width="50%" />
+
 </div>

@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Andres Felipe Olaya
 
-💻 Apasionado por el **Desarrollo de Software, Inteligencia Artificial y Analítica de Datos**.  
-📚 Actualmente aprendiendo sobre **IA, análisis de datos, SQL, Oracle y MongoDB**.  
-🚀 También tengo experiencia en **PHP, Python, React, HTML y C#**.  
+💻 Apasionado por el **Desarrollo de Software, Inteligencia Artificial y Analítica de Datos**.
+📚 Actualmente aprendiendo sobre **IA, análisis de datos, SQL, Oracle y MongoDB**.
+🚀 También tengo experiencia en **PHP, Python, React, HTML y C#**.
 
 ---
 
-## 🚀 Tecnologías y herramientas  
+## 🚀 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -18,21 +18,21 @@
 
 ---
 
-## 📚 En constante aprendizaje  
-🔹 **Inteligencia Artificial** con Python y modelos de Machine Learning.  
+## 📚 En constante aprendizaje
+🔹 **Inteligencia Artificial** con Python y modelos de Machine Learning.
 🔹 **Lenguajes** (JavaScript, Python, JavaScript, React JS, Node JS).
 🔹 **Bases de datos** relacionales y NoSQL (SQL Server, Oracle, MongoDB).
 
 ---
 
-## 🌟 Proyectos Destacados  
-🔹 [📌 Proyecto IA](https://github.com/Th33Andr3s/proyecto-ia) - Implementación de Machine Learning con Python.  
-🔹 [📌 Análisis de Datos](https://github.com/Th33Andr3s/proyecto-datos) - Dashboard con SQL y visualización de datos.  
-🔹 [📌 Aplicación Web](https://github.com/Th33Andr3s/proyecto-web) - Desarrollo en React con backend en C#.  
+## 🌟 Proyectos Destacados
+🔹 [📌 Proyecto IA](https://github.com/Th33Andr3s/proyecto-ia) - Implementación de Machine Learning con Python.
+🔹 [📌 Análisis de Datos](https://github.com/Th33Andr3s/proyecto-datos) - Dashboard con SQL y visualización de datos.
+🔹 [📌 Aplicación Web](https://github.com/Th33Andr3s/proyecto-web) - Desarrollo en React con backend en C#.
 
 ---
 
-## 📬 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-olaya-cadena-8b0837210/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3116407134?text=Hola%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)  
-✉️ Correo: [andresfoc2020@gmail.com](mailto:andresfoc2020@gmail.com)  
+## 📬 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-felipe-olaya-cadena-8b0837210/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3116407134?text=Hola%2C%20te%20contacto%20desde%20tu%20perfil%20de%20GitHub)
+✉️ Correo: [andresfoc2020@gmail.com](mailto:andresfoc2020@gmail.com)
